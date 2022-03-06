@@ -1,2 +1,2 @@
 # test
-test reppo
+test reppo for git commands demonstration
